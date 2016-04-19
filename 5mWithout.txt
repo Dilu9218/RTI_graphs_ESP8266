@@ -1,0 +1,3209 @@
+ESPap,-64
+3Com,-83
+Dialog Wi-Fi,-86
+Student-WIFI,-86
+Mobitel_EAP,-81
+Sci-Fi,-91
+Mobitel_EAP,-71
+IBMBB Wireless,-74
+Mobitel_Open,-70
+Freewifi_Mobitel,-71
+Freewifi_Mobitel,-76
+ ------------ 
+ESPap,-64
+3Com,-83
+Dialog Wi-Fi,-86
+Student-WIFI,-86
+Mobitel_EAP,-81
+Sci-Fi,-91
+Mobitel_EAP,-71
+IBMBB Wireless,-74
+Mobitel_Open,-70
+Freewifi_Mobitel,-71
+Freewifi_Mobitel,-76
+ ------------ 
+ESPap,-56
+3Com,-79
+Student-WIFI,-86
+Mobitel_EAP,-81
+Sci-Fi,-91
+Mobitel_EAP,-83
+IBMBB Wireless,-74
+Mobitel_Open,-70
+Freewifi_Mobitel,-71
+Freewifi_Mobitel,-82
+Mobitel_EAP,-87
+Mobitel_Open,-83
+Freewifi_Mobitel,-85
+Mobitel_Open,-85
+ ------------ 
+ESPap,-56
+3Com,-79
+Student-WIFI,-86
+Mobitel_EAP,-81
+Sci-Fi,-91
+Mobitel_EAP,-83
+IBMBB Wireless,-74
+Mobitel_Open,-70
+Freewifi_Mobitel,-71
+Freewifi_Mobitel,-82
+Mobitel_EAP,-87
+Mobitel_Open,-83
+Freewifi_Mobitel,-85
+Mobitel_Open,-85
+ ------------ 
+ESPap,-56
+3Com,-79
+Student-WIFI,-86
+Mobitel_EAP,-81
+Sci-Fi,-91
+Mobitel_EAP,-83
+IBMBB Wireless,-74
+Mobitel_Open,-70
+Freewifi_Mobitel,-71
+Freewifi_Mobitel,-82
+Mobitel_EAP,-87
+Mobitel_Open,-83
+Freewifi_Mobitel,-85
+Mobitel_Open,-85
+ ------------ 
+ESPap,-56
+3Com,-79
+Student-WIFI,-86
+Mobitel_EAP,-81
+Sci-Fi,-91
+Mobitel_EAP,-83
+IBMBB Wireless,-74
+Mobitel_Open,-70
+Freewifi_Mobitel,-71
+Freewifi_Mobitel,-82
+Mobitel_EAP,-87
+Mobitel_Open,-83
+Freewifi_Mobitel,-85
+Mobitel_Open,-85
+ ------------ 
+ESPap,-54
+3Com,-80
+Mobitel_EAP,-81
+Sci-Fi,-91
+Mobitel_EAP,-83
+IBMBB Wireless,-74
+Mobitel_Open,-70
+Freewifi_Mobitel,-71
+Freewifi_Mobitel,-82
+Mobitel_EAP,-87
+Mobitel_Open,-83
+Freewifi_Mobitel,-88
+Mobitel_Open,-85
+ ------------ 
+ESPap,-54
+3Com,-80
+Mobitel_EAP,-81
+Sci-Fi,-91
+Mobitel_EAP,-83
+IBMBB Wireless,-74
+Mobitel_Open,-70
+Freewifi_Mobitel,-71
+Freewifi_Mobitel,-82
+Mobitel_EAP,-87
+Mobitel_Open,-83
+Freewifi_Mobitel,-88
+Mobitel_Open,-85
+ ------------ 
+ESPap,-54
+3Com,-80
+Mobitel_EAP,-81
+Sci-Fi,-91
+Mobitel_EAP,-83
+IBMBB Wireless,-74
+Mobitel_Open,-70
+Freewifi_Mobitel,-71
+Freewifi_Mobitel,-82
+Mobitel_EAP,-87
+Mobitel_Open,-83
+Freewifi_Mobitel,-88
+Mobitel_Open,-85
+ ------------ 
+ESPap,-54
+3Com,-80
+Mobitel_EAP,-81
+Sci-Fi,-91
+Mobitel_EAP,-83
+IBMBB Wireless,-74
+Mobitel_Open,-70
+Freewifi_Mobitel,-71
+Freewifi_Mobitel,-82
+Mobitel_EAP,-87
+Mobitel_Open,-83
+Freewifi_Mobitel,-88
+Mobitel_Open,-85
+ ------------ 
+ESPap,-54
+3Com,-80
+Mobitel_EAP,-83
+Sci-Fi,-87
+Mobitel_EAP,-80
+IBMBB Wireless,-74
+Mobitel_Open,-78
+Freewifi_Mobitel,-79
+Freewifi_Mobitel,-79
+Mobitel_EAP,-87
+Mobitel_Open,-83
+Freewifi_Mobitel,-88
+Mobitel_Open,-85
+ ------------ 
+ESPap,-54
+3Com,-80
+Mobitel_EAP,-83
+Sci-Fi,-87
+Mobitel_EAP,-80
+IBMBB Wireless,-74
+Mobitel_Open,-78
+Freewifi_Mobitel,-79
+Freewifi_Mobitel,-79
+Mobitel_EAP,-87
+Mobitel_Open,-83
+Freewifi_Mobitel,-88
+Mobitel_Open,-85
+ ------------ 
+ESPap,-54
+3Com,-80
+Mobitel_EAP,-83
+Sci-Fi,-87
+Mobitel_EAP,-80
+IBMBB Wireless,-74
+Mobitel_Open,-78
+Freewifi_Mobitel,-79
+Freewifi_Mobitel,-79
+Mobitel_EAP,-87
+Mobitel_Open,-83
+Freewifi_Mobitel,-88
+Mobitel_Open,-85
+ ------------ 
+ESPap,-54
+3Com,-80
+Mobitel_EAP,-83
+Sci-Fi,-87
+Mobitel_EAP,-80
+IBMBB Wireless,-74
+Mobitel_Open,-78
+Freewifi_Mobitel,-79
+Freewifi_Mobitel,-79
+Mobitel_EAP,-87
+Mobitel_Open,-83
+Freewifi_Mobitel,-88
+Mobitel_Open,-85
+ ------------ 
+ESPap,-54
+3Com,-80
+Mobitel_EAP,-83
+Sci-Fi,-87
+Mobitel_EAP,-80
+IBMBB Wireless,-74
+Mobitel_Open,-78
+Freewifi_Mobitel,-79
+Freewifi_Mobitel,-79
+Mobitel_EAP,-87
+Mobitel_Open,-83
+Freewifi_Mobitel,-88
+Mobitel_Open,-85
+ ------------ 
+ESPap,-54
+3Com,-81
+Mobitel_EAP,-83
+Sci-Fi,-87
+Mobitel_EAP,-84
+IBMBB Wireless,-74
+Mobitel_Open,-78
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-80
+Mobitel_EAP,-87
+Mobitel_Open,-83
+Freewifi_Mobitel,-88
+Mobitel_Open,-85
+Dialog Wi-Fi,-79
+ ------------ 
+ESPap,-54
+3Com,-81
+Mobitel_EAP,-83
+Sci-Fi,-87
+Mobitel_EAP,-84
+IBMBB Wireless,-74
+Mobitel_Open,-78
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-80
+Mobitel_EAP,-87
+Mobitel_Open,-83
+Freewifi_Mobitel,-88
+Mobitel_Open,-85
+Dialog Wi-Fi,-79
+ ------------ 
+ESPap,-54
+3Com,-81
+Mobitel_EAP,-83
+Sci-Fi,-87
+Mobitel_EAP,-84
+IBMBB Wireless,-74
+Mobitel_Open,-78
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-80
+Mobitel_EAP,-87
+Mobitel_Open,-83
+Freewifi_Mobitel,-88
+Mobitel_Open,-85
+Dialog Wi-Fi,-79
+ ------------ 
+ESPap,-54
+3Com,-81
+Mobitel_EAP,-83
+Sci-Fi,-87
+Mobitel_EAP,-84
+IBMBB Wireless,-74
+Mobitel_Open,-78
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-80
+Mobitel_EAP,-87
+Mobitel_Open,-83
+Freewifi_Mobitel,-88
+Mobitel_Open,-85
+Dialog Wi-Fi,-79
+ ------------ 
+ESPap,-54
+3Com,-81
+Mobitel_EAP,-83
+Sci-Fi,-87
+Mobitel_EAP,-84
+Mobitel_Open,-78
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-80
+Mobitel_EAP,-87
+Mobitel_Open,-83
+Freewifi_Mobitel,-88
+Mobitel_Open,-85
+Dialog Wi-Fi,-79
+Student-WIFI,-86
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-83
+Sci-Fi,-87
+Mobitel_EAP,-84
+Mobitel_Open,-78
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-80
+Mobitel_EAP,-87
+Mobitel_Open,-83
+Freewifi_Mobitel,-88
+Mobitel_Open,-85
+Dialog Wi-Fi,-79
+Student-WIFI,-86
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-83
+Sci-Fi,-87
+Mobitel_EAP,-84
+Mobitel_Open,-78
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-80
+Mobitel_EAP,-87
+Mobitel_Open,-83
+Freewifi_Mobitel,-88
+Mobitel_Open,-85
+Dialog Wi-Fi,-79
+Student-WIFI,-86
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-83
+Sci-Fi,-87
+Mobitel_EAP,-84
+Mobitel_Open,-78
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-80
+Mobitel_EAP,-87
+Mobitel_Open,-83
+Freewifi_Mobitel,-88
+Mobitel_Open,-85
+Dialog Wi-Fi,-79
+Student-WIFI,-86
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-83
+Sci-Fi,-87
+Mobitel_EAP,-84
+Mobitel_Open,-78
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-80
+Mobitel_EAP,-87
+Mobitel_Open,-83
+Freewifi_Mobitel,-88
+Mobitel_Open,-85
+Dialog Wi-Fi,-79
+Student-WIFI,-86
+ ------------ 
+ESPap,-55
+3Com,-85
+Mobitel_EAP,-83
+Sci-Fi,-87
+Mobitel_EAP,-84
+Mobitel_Open,-78
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-80
+Mobitel_EAP,-87
+Mobitel_Open,-83
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-79
+Student-WIFI,-86
+Art Faculty Staff 3,-88
+ ------------ 
+ESPap,-55
+3Com,-85
+Mobitel_EAP,-83
+Sci-Fi,-87
+Mobitel_EAP,-84
+Mobitel_Open,-78
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-80
+Mobitel_EAP,-87
+Mobitel_Open,-83
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-79
+Student-WIFI,-86
+Art Faculty Staff 3,-88
+ ------------ 
+ESPap,-55
+3Com,-85
+Mobitel_EAP,-83
+Sci-Fi,-87
+Mobitel_EAP,-84
+Mobitel_Open,-78
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-80
+Mobitel_EAP,-87
+Mobitel_Open,-83
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-79
+Student-WIFI,-86
+Art Faculty Staff 3,-88
+ ------------ 
+ESPap,-55
+3Com,-85
+Mobitel_EAP,-83
+Sci-Fi,-87
+Mobitel_EAP,-84
+Mobitel_Open,-78
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-80
+Mobitel_EAP,-87
+Mobitel_Open,-83
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-79
+Student-WIFI,-86
+Art Faculty Staff 3,-88
+ ------------ 
+ESPap,-55
+3Com,-85
+Mobitel_EAP,-83
+Sci-Fi,-87
+Mobitel_EAP,-84
+Mobitel_Open,-78
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-81
+Mobitel_EAP,-87
+Mobitel_Open,-81
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-79
+Student-WIFI,-86
+Art Faculty Staff 3,-88
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-83
+Sci-Fi,-87
+Mobitel_EAP,-81
+Mobitel_Open,-78
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-81
+Mobitel_EAP,-87
+Mobitel_Open,-81
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-79
+Student-WIFI,-86
+Art Faculty Staff 3,-88
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-83
+Sci-Fi,-87
+Mobitel_EAP,-81
+Mobitel_Open,-78
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-81
+Mobitel_EAP,-87
+Mobitel_Open,-81
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-79
+Student-WIFI,-86
+Art Faculty Staff 3,-88
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-83
+Sci-Fi,-87
+Mobitel_EAP,-81
+Mobitel_Open,-78
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-81
+Mobitel_EAP,-87
+Mobitel_Open,-81
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-79
+Student-WIFI,-86
+Art Faculty Staff 3,-88
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-83
+Sci-Fi,-87
+Mobitel_EAP,-81
+Mobitel_Open,-78
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-81
+Mobitel_EAP,-87
+Mobitel_Open,-81
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-79
+Student-WIFI,-86
+Art Faculty Staff 3,-88
+ ------------ 
+ESPap,-55
+3Com,-84
+Mobitel_EAP,-83
+Mobitel_EAP,-84
+Freewifi_Mobitel,-85
+Freewifi_Mobitel,-81
+Mobitel_EAP,-87
+Mobitel_Open,-84
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-82
+Student-WIFI,-86
+Art Faculty Staff 3,-88
+ ------------ 
+ESPap,-55
+3Com,-84
+Mobitel_EAP,-83
+Mobitel_EAP,-84
+Freewifi_Mobitel,-85
+Freewifi_Mobitel,-81
+Mobitel_EAP,-87
+Mobitel_Open,-84
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-82
+Student-WIFI,-86
+Art Faculty Staff 3,-88
+ ------------ 
+ESPap,-55
+3Com,-84
+Mobitel_EAP,-83
+Mobitel_EAP,-84
+Freewifi_Mobitel,-85
+Freewifi_Mobitel,-81
+Mobitel_EAP,-87
+Mobitel_Open,-84
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-82
+Student-WIFI,-86
+Art Faculty Staff 3,-88
+ ------------ 
+ESPap,-55
+3Com,-84
+Mobitel_EAP,-83
+Mobitel_EAP,-84
+Freewifi_Mobitel,-85
+Freewifi_Mobitel,-81
+Mobitel_EAP,-87
+Mobitel_Open,-84
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-82
+Student-WIFI,-86
+Art Faculty Staff 3,-88
+ ------------ 
+ESPap,-55
+3Com,-84
+Mobitel_EAP,-83
+Mobitel_EAP,-84
+Freewifi_Mobitel,-85
+Freewifi_Mobitel,-81
+Mobitel_EAP,-87
+Mobitel_Open,-84
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-82
+Student-WIFI,-86
+Art Faculty Staff 3,-88
+ ------------ 
+ESPap,-54
+3Com,-82
+Mobitel_EAP,-81
+Mobitel_EAP,-84
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-81
+Mobitel_EAP,-87
+Mobitel_Open,-84
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-82
+Student-WIFI,-82
+Art Faculty Staff 3,-88
+ ------------ 
+ESPap,-54
+3Com,-82
+Mobitel_EAP,-81
+Mobitel_EAP,-84
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-81
+Mobitel_EAP,-87
+Mobitel_Open,-84
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-82
+Student-WIFI,-82
+Art Faculty Staff 3,-88
+ ------------ 
+ESPap,-54
+3Com,-82
+Mobitel_EAP,-81
+Mobitel_EAP,-84
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-81
+Mobitel_EAP,-87
+Mobitel_Open,-84
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-82
+Student-WIFI,-82
+Art Faculty Staff 3,-88
+ ------------ 
+ESPap,-54
+3Com,-82
+Mobitel_EAP,-81
+Mobitel_EAP,-84
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-81
+Mobitel_EAP,-87
+Mobitel_Open,-84
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-82
+Student-WIFI,-82
+Art Faculty Staff 3,-88
+ ------------ 
+ESPap,-54
+3Com,-81
+Mobitel_EAP,-81
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-83
+Mobitel_EAP,-87
+Mobitel_Open,-84
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-82
+Student-WIFI,-82
+Art Faculty Staff 3,-88
+ ------------ 
+ESPap,-54
+3Com,-81
+Mobitel_EAP,-81
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-83
+Mobitel_EAP,-87
+Mobitel_Open,-84
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-82
+Student-WIFI,-82
+Art Faculty Staff 3,-88
+ ------------ 
+ESPap,-54
+3Com,-81
+Mobitel_EAP,-81
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-83
+Mobitel_EAP,-87
+Mobitel_Open,-84
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-82
+Student-WIFI,-82
+Art Faculty Staff 3,-88
+ ------------ 
+ESPap,-54
+3Com,-81
+Mobitel_EAP,-81
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-83
+Mobitel_EAP,-87
+Mobitel_Open,-84
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-82
+Student-WIFI,-82
+Art Faculty Staff 3,-88
+ ------------ 
+ESPap,-54
+3Com,-81
+Mobitel_EAP,-81
+Mobitel_EAP,-83
+Freewifi_Mobitel,-85
+Freewifi_Mobitel,-85
+Mobitel_Open,-84
+Freewifi_Mobitel,-90
+Dialog Wi-Fi,-79
+Student-WIFI,-82
+ ------------ 
+ESPap,-54
+3Com,-81
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-85
+Freewifi_Mobitel,-85
+Mobitel_Open,-84
+Freewifi_Mobitel,-90
+Dialog Wi-Fi,-79
+Student-WIFI,-82
+ ------------ 
+ESPap,-54
+3Com,-81
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-85
+Freewifi_Mobitel,-85
+Mobitel_Open,-84
+Freewifi_Mobitel,-90
+Dialog Wi-Fi,-79
+Student-WIFI,-82
+ ------------ 
+ESPap,-54
+3Com,-81
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-85
+Freewifi_Mobitel,-85
+Mobitel_Open,-84
+Freewifi_Mobitel,-90
+Dialog Wi-Fi,-79
+Student-WIFI,-82
+ ------------ 
+ESPap,-54
+3Com,-81
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-85
+Freewifi_Mobitel,-85
+Mobitel_Open,-84
+Freewifi_Mobitel,-90
+Dialog Wi-Fi,-79
+Student-WIFI,-82
+ ------------ 
+ESPap,-54
+3Com,-81
+Mobitel_EAP,-83
+Mobitel_EAP,-84
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-81
+Mobitel_Open,-84
+Freewifi_Mobitel,-90
+Dialog Wi-Fi,-79
+Student-WIFI,-82
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-83
+Mobitel_EAP,-84
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-81
+Mobitel_Open,-84
+Freewifi_Mobitel,-90
+Dialog Wi-Fi,-79
+Student-WIFI,-82
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-83
+Mobitel_EAP,-84
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-81
+Mobitel_Open,-84
+Freewifi_Mobitel,-90
+Dialog Wi-Fi,-79
+Student-WIFI,-82
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-83
+Mobitel_EAP,-84
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-81
+Mobitel_Open,-84
+Freewifi_Mobitel,-90
+Dialog Wi-Fi,-79
+Student-WIFI,-82
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-83
+Mobitel_EAP,-84
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-81
+Mobitel_Open,-84
+Freewifi_Mobitel,-90
+Dialog Wi-Fi,-79
+Student-WIFI,-82
+ ------------ 
+ESPap,-55
+3Com,-84
+Mobitel_EAP,-83
+Mobitel_EAP,-81
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-81
+Mobitel_Open,-84
+Freewifi_Mobitel,-90
+Dialog Wi-Fi,-79
+Student-WIFI,-86
+ ------------ 
+ESPap,-55
+3Com,-84
+Mobitel_EAP,-83
+Mobitel_EAP,-81
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-81
+Mobitel_Open,-84
+Freewifi_Mobitel,-90
+Dialog Wi-Fi,-79
+Student-WIFI,-86
+ ------------ 
+ESPap,-55
+3Com,-84
+Mobitel_EAP,-83
+Mobitel_EAP,-81
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-81
+Mobitel_Open,-84
+Freewifi_Mobitel,-90
+Dialog Wi-Fi,-79
+Student-WIFI,-86
+ ------------ 
+ESPap,-55
+3Com,-84
+Mobitel_EAP,-83
+Mobitel_EAP,-81
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-81
+Mobitel_Open,-84
+Freewifi_Mobitel,-90
+Dialog Wi-Fi,-79
+Student-WIFI,-86
+ ------------ 
+ESPap,-55
+3Com,-84
+Mobitel_EAP,-83
+Mobitel_EAP,-81
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-81
+Mobitel_Open,-84
+Freewifi_Mobitel,-90
+Dialog Wi-Fi,-79
+Student-WIFI,-86
+ ------------ 
+ESPap,-55
+3Com,-80
+Mobitel_EAP,-82
+Mobitel_EAP,-85
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-81
+Mobitel_Open,-84
+Freewifi_Mobitel,-90
+Dialog Wi-Fi,-79
+Student-WIFI,-86
+STAFF,-89
+ ------------ 
+ESPap,-55
+3Com,-80
+Mobitel_EAP,-82
+Mobitel_EAP,-85
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-81
+Mobitel_Open,-84
+Freewifi_Mobitel,-90
+Dialog Wi-Fi,-79
+Student-WIFI,-86
+STAFF,-89
+ ------------ 
+ESPap,-55
+3Com,-80
+Mobitel_EAP,-82
+Mobitel_EAP,-85
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-81
+Mobitel_Open,-84
+Freewifi_Mobitel,-90
+Dialog Wi-Fi,-79
+Student-WIFI,-86
+STAFF,-89
+ ------------ 
+ESPap,-55
+3Com,-80
+Mobitel_EAP,-82
+Mobitel_EAP,-85
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-81
+Mobitel_Open,-84
+Freewifi_Mobitel,-90
+Dialog Wi-Fi,-79
+Student-WIFI,-86
+STAFF,-89
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-83
+Mobitel_EAP,-81
+Freewifi_Mobitel,-81
+Freewifi_Mobitel,-80
+Mobitel_Open,-85
+Freewifi_Mobitel,-90
+Dialog Wi-Fi,-81
+Student-WIFI,-86
+STAFF,-89
+Art Faculty Staff 3,-88
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-83
+Mobitel_EAP,-81
+Freewifi_Mobitel,-81
+Freewifi_Mobitel,-80
+Mobitel_Open,-85
+Freewifi_Mobitel,-90
+Dialog Wi-Fi,-81
+Student-WIFI,-86
+STAFF,-89
+Art Faculty Staff 3,-88
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-83
+Mobitel_EAP,-81
+Freewifi_Mobitel,-81
+Freewifi_Mobitel,-80
+Mobitel_Open,-85
+Freewifi_Mobitel,-90
+Dialog Wi-Fi,-81
+Student-WIFI,-86
+STAFF,-89
+Art Faculty Staff 3,-88
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-83
+Mobitel_EAP,-81
+Freewifi_Mobitel,-81
+Freewifi_Mobitel,-80
+Mobitel_Open,-85
+Freewifi_Mobitel,-90
+Dialog Wi-Fi,-81
+Student-WIFI,-86
+STAFF,-89
+Art Faculty Staff 3,-88
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-83
+Mobitel_EAP,-81
+Freewifi_Mobitel,-81
+Freewifi_Mobitel,-80
+Mobitel_Open,-85
+Freewifi_Mobitel,-90
+Dialog Wi-Fi,-81
+Student-WIFI,-86
+STAFF,-89
+Art Faculty Staff 3,-88
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-83
+Mobitel_EAP,-81
+Freewifi_Mobitel,-81
+Freewifi_Mobitel,-81
+Mobitel_Open,-84
+Dialog Wi-Fi,-81
+Student-WIFI,-86
+STAFF,-89
+Art Faculty Staff 3,-88
+CSHR ,-84
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-83
+Mobitel_EAP,-81
+Freewifi_Mobitel,-81
+Freewifi_Mobitel,-81
+Mobitel_Open,-84
+Dialog Wi-Fi,-81
+Student-WIFI,-86
+STAFF,-89
+Art Faculty Staff 3,-88
+CSHR ,-84
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-83
+Mobitel_EAP,-81
+Freewifi_Mobitel,-81
+Freewifi_Mobitel,-81
+Mobitel_Open,-84
+Dialog Wi-Fi,-81
+Student-WIFI,-86
+STAFF,-89
+Art Faculty Staff 3,-88
+CSHR ,-84
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-83
+Mobitel_EAP,-81
+Freewifi_Mobitel,-81
+Freewifi_Mobitel,-81
+Mobitel_Open,-84
+Dialog Wi-Fi,-81
+Student-WIFI,-86
+STAFF,-89
+Art Faculty Staff 3,-88
+CSHR ,-84
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-83
+Mobitel_EAP,-81
+Freewifi_Mobitel,-81
+Freewifi_Mobitel,-81
+Mobitel_Open,-84
+Dialog Wi-Fi,-81
+Student-WIFI,-86
+STAFF,-89
+Art Faculty Staff 3,-88
+CSHR ,-84
+ ------------ 
+ESPap,-56
+3Com,-81
+Mobitel_EAP,-82
+Mobitel_EAP,-82
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-81
+Mobitel_Open,-82
+Dialog Wi-Fi,-81
+Student-WIFI,-86
+STAFF,-89
+Art Faculty Staff 3,-88
+CSHR ,-83
+ ------------ 
+ESPap,-56
+3Com,-81
+Mobitel_EAP,-82
+Mobitel_EAP,-82
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-81
+Mobitel_Open,-82
+Dialog Wi-Fi,-81
+Student-WIFI,-86
+STAFF,-89
+Art Faculty Staff 3,-88
+CSHR ,-83
+ ------------ 
+ESPap,-56
+3Com,-81
+Mobitel_EAP,-82
+Mobitel_EAP,-82
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-81
+Mobitel_Open,-82
+Dialog Wi-Fi,-81
+Student-WIFI,-86
+STAFF,-89
+Art Faculty Staff 3,-88
+CSHR ,-83
+ ------------ 
+ESPap,-56
+3Com,-81
+Mobitel_EAP,-82
+Mobitel_EAP,-82
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-81
+Mobitel_Open,-82
+Dialog Wi-Fi,-81
+Student-WIFI,-86
+STAFF,-89
+Art Faculty Staff 3,-88
+CSHR ,-83
+ ------------ 
+ESPap,-55
+3Com,-79
+Mobitel_EAP,-82
+Mobitel_EAP,-82
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-78
+Mobitel_Open,-82
+Dialog Wi-Fi,-81
+Student-WIFI,-87
+STAFF,-89
+Art Faculty Staff 3,-88
+CSHR ,-83
+ ------------ 
+ESPap,-55
+3Com,-79
+Mobitel_EAP,-82
+Mobitel_EAP,-82
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-78
+Mobitel_Open,-82
+Dialog Wi-Fi,-81
+Student-WIFI,-87
+STAFF,-89
+Art Faculty Staff 3,-88
+CSHR ,-83
+ ------------ 
+ESPap,-55
+3Com,-79
+Mobitel_EAP,-82
+Mobitel_EAP,-82
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-78
+Mobitel_Open,-82
+Dialog Wi-Fi,-81
+Student-WIFI,-87
+STAFF,-89
+Art Faculty Staff 3,-88
+CSHR ,-83
+ ------------ 
+ESPap,-55
+3Com,-79
+Mobitel_EAP,-82
+Mobitel_EAP,-82
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-78
+Mobitel_Open,-82
+Dialog Wi-Fi,-81
+Student-WIFI,-87
+STAFF,-89
+Art Faculty Staff 3,-88
+CSHR ,-83
+ ------------ 
+ESPap,-55
+3Com,-79
+Mobitel_EAP,-82
+Mobitel_EAP,-82
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-78
+Mobitel_Open,-82
+Dialog Wi-Fi,-81
+Student-WIFI,-87
+STAFF,-89
+Art Faculty Staff 3,-88
+CSHR ,-83
+ ------------ 
+ESPap,-55
+3Com,-79
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-78
+Mobitel_Open,-82
+Dialog Wi-Fi,-81
+Student-WIFI,-87
+Art Faculty Staff 3,-88
+CSHR ,-83
+Mobitel_Open,-85
+ ------------ 
+ESPap,-55
+3Com,-79
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-78
+Mobitel_Open,-82
+Dialog Wi-Fi,-81
+Student-WIFI,-87
+Art Faculty Staff 3,-88
+CSHR ,-83
+Mobitel_Open,-85
+ ------------ 
+ESPap,-55
+3Com,-79
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-78
+Mobitel_Open,-82
+Dialog Wi-Fi,-81
+Student-WIFI,-87
+Art Faculty Staff 3,-88
+CSHR ,-83
+Mobitel_Open,-85
+ ------------ 
+ESPap,-55
+3Com,-79
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-78
+Mobitel_Open,-82
+Dialog Wi-Fi,-81
+Student-WIFI,-87
+Art Faculty Staff 3,-88
+CSHR ,-83
+Mobitel_Open,-85
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-80
+Mobitel_Open,-82
+Dialog Wi-Fi,-81
+Student-WIFI,-87
+Art Faculty Staff 3,-90
+CSHR ,-83
+Mobitel_Open,-85
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-80
+Mobitel_Open,-82
+Dialog Wi-Fi,-81
+Student-WIFI,-87
+Art Faculty Staff 3,-90
+CSHR ,-83
+Mobitel_Open,-85
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-80
+Mobitel_Open,-82
+Dialog Wi-Fi,-81
+Student-WIFI,-87
+Art Faculty Staff 3,-90
+CSHR ,-83
+Mobitel_Open,-85
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-80
+Mobitel_Open,-82
+Dialog Wi-Fi,-81
+Student-WIFI,-87
+Art Faculty Staff 3,-90
+CSHR ,-83
+Mobitel_Open,-85
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-80
+Mobitel_Open,-82
+Dialog Wi-Fi,-81
+Student-WIFI,-87
+Art Faculty Staff 3,-90
+CSHR ,-83
+Mobitel_Open,-85
+ ------------ 
+ESPap,-56
+3Com,-81
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-82
+Mobitel_Open,-82
+Dialog Wi-Fi,-81
+Student-WIFI,-87
+Art Faculty Staff 3,-90
+CSHR ,-83
+Mobitel_Open,-85
+Mobitel_EAP,-90
+Freewifi_Mobitel,-88
+ ------------ 
+ESPap,-56
+3Com,-81
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-82
+Mobitel_Open,-82
+Dialog Wi-Fi,-81
+Student-WIFI,-87
+Art Faculty Staff 3,-90
+CSHR ,-83
+Mobitel_Open,-85
+Mobitel_EAP,-90
+Freewifi_Mobitel,-88
+ ------------ 
+ESPap,-56
+3Com,-81
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-82
+Mobitel_Open,-82
+Dialog Wi-Fi,-81
+Student-WIFI,-87
+Art Faculty Staff 3,-90
+CSHR ,-83
+Mobitel_Open,-85
+Mobitel_EAP,-90
+Freewifi_Mobitel,-88
+ ------------ 
+ESPap,-56
+3Com,-81
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-82
+Mobitel_Open,-82
+Dialog Wi-Fi,-81
+Student-WIFI,-87
+Art Faculty Staff 3,-90
+CSHR ,-83
+Mobitel_Open,-85
+Mobitel_EAP,-90
+Freewifi_Mobitel,-88
+ ------------ 
+ESPap,-56
+3Com,-81
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-82
+Mobitel_Open,-82
+Dialog Wi-Fi,-81
+Student-WIFI,-87
+Art Faculty Staff 3,-90
+CSHR ,-83
+Mobitel_Open,-85
+Mobitel_EAP,-90
+Freewifi_Mobitel,-88
+ ------------ 
+ESPap,-56
+3Com,-81
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-82
+Dialog Wi-Fi,-81
+Student-WIFI,-87
+Art Faculty Staff 3,-90
+Mobitel_Open,-83
+Mobitel_EAP,-90
+Freewifi_Mobitel,-88
+ ------------ 
+ESPap,-56
+3Com,-81
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-82
+Dialog Wi-Fi,-81
+Student-WIFI,-87
+Art Faculty Staff 3,-90
+Mobitel_Open,-83
+Mobitel_EAP,-90
+Freewifi_Mobitel,-88
+ ------------ 
+ESPap,-56
+3Com,-81
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-82
+Dialog Wi-Fi,-81
+Student-WIFI,-87
+Art Faculty Staff 3,-90
+Mobitel_Open,-83
+Mobitel_EAP,-90
+Freewifi_Mobitel,-88
+ ------------ 
+ESPap,-56
+3Com,-81
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-82
+Dialog Wi-Fi,-81
+Student-WIFI,-87
+Art Faculty Staff 3,-90
+Mobitel_Open,-83
+Mobitel_EAP,-90
+Freewifi_Mobitel,-88
+ ------------ 
+ESPap,-56
+3Com,-85
+Mobitel_EAP,-82
+Mobitel_EAP,-80
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-82
+Art Faculty Staff 3,-90
+Mobitel_Open,-83
+Mobitel_EAP,-90
+Freewifi_Mobitel,-88
+ ------------ 
+ESPap,-56
+3Com,-85
+Mobitel_EAP,-82
+Mobitel_EAP,-80
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-82
+Art Faculty Staff 3,-90
+Mobitel_Open,-83
+Mobitel_EAP,-90
+Freewifi_Mobitel,-88
+ ------------ 
+ESPap,-56
+3Com,-85
+Mobitel_EAP,-82
+Mobitel_EAP,-80
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-82
+Art Faculty Staff 3,-90
+Mobitel_Open,-83
+Mobitel_EAP,-90
+Freewifi_Mobitel,-88
+ ------------ 
+ESPap,-56
+3Com,-85
+Mobitel_EAP,-82
+Mobitel_EAP,-80
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-82
+Art Faculty Staff 3,-90
+Mobitel_Open,-83
+Mobitel_EAP,-90
+Freewifi_Mobitel,-88
+ ------------ 
+ESPap,-56
+3Com,-85
+Mobitel_EAP,-82
+Mobitel_EAP,-80
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-82
+Art Faculty Staff 3,-90
+Mobitel_Open,-83
+Mobitel_EAP,-90
+Freewifi_Mobitel,-88
+ ------------ 
+ESPap,-55
+3Com,-85
+Mobitel_EAP,-83
+Mobitel_EAP,-84
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-81
+Art Faculty Staff 3,-90
+Mobitel_Open,-83
+Mobitel_EAP,-90
+Freewifi_Mobitel,-88
+ ------------ 
+ESPap,-55
+3Com,-85
+Mobitel_EAP,-83
+Mobitel_EAP,-84
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-81
+Art Faculty Staff 3,-90
+Mobitel_Open,-83
+Mobitel_EAP,-90
+Freewifi_Mobitel,-88
+ ------------ 
+ESPap,-55
+3Com,-85
+Mobitel_EAP,-83
+Mobitel_EAP,-84
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-81
+Art Faculty Staff 3,-90
+Mobitel_Open,-83
+Mobitel_EAP,-90
+Freewifi_Mobitel,-88
+ ------------ 
+ESPap,-55
+3Com,-85
+Mobitel_EAP,-83
+Mobitel_EAP,-84
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-81
+Art Faculty Staff 3,-90
+Mobitel_Open,-83
+Mobitel_EAP,-90
+Freewifi_Mobitel,-88
+ ------------ 
+ESPap,-55
+3Com,-85
+Mobitel_EAP,-83
+Mobitel_EAP,-84
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-82
+Art Faculty Staff 3,-90
+Mobitel_Open,-83
+Mobitel_EAP,-90
+Freewifi_Mobitel,-88
+ ------------ 
+ESPap,-55
+3Com,-85
+Mobitel_EAP,-83
+Mobitel_EAP,-84
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-82
+Art Faculty Staff 3,-90
+Mobitel_Open,-83
+Mobitel_EAP,-90
+Freewifi_Mobitel,-88
+ ------------ 
+ESPap,-55
+3Com,-85
+Mobitel_EAP,-83
+Mobitel_EAP,-84
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-82
+Art Faculty Staff 3,-90
+Mobitel_Open,-83
+Mobitel_EAP,-90
+Freewifi_Mobitel,-88
+ ------------ 
+ESPap,-55
+3Com,-85
+Mobitel_EAP,-83
+Mobitel_EAP,-84
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-82
+Art Faculty Staff 3,-90
+Mobitel_Open,-83
+Mobitel_EAP,-90
+Freewifi_Mobitel,-88
+ ------------ 
+ESPap,-55
+3Com,-85
+Mobitel_EAP,-83
+Mobitel_EAP,-84
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-82
+Art Faculty Staff 3,-90
+Mobitel_Open,-83
+Mobitel_EAP,-90
+Freewifi_Mobitel,-88
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-84
+Mobitel_EAP,-81
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-82
+Art Faculty Staff 3,-90
+Mobitel_Open,-81
+Sci-Fi,-86
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-84
+Mobitel_EAP,-81
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-82
+Art Faculty Staff 3,-90
+Mobitel_Open,-81
+Sci-Fi,-86
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-84
+Mobitel_EAP,-81
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-82
+Art Faculty Staff 3,-90
+Mobitel_Open,-81
+Sci-Fi,-86
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-84
+Mobitel_EAP,-81
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-82
+Art Faculty Staff 3,-90
+Mobitel_Open,-81
+Sci-Fi,-86
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-80
+Art Faculty Staff 3,-90
+Mobitel_Open,-84
+Sci-Fi,-86
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-80
+Art Faculty Staff 3,-90
+Mobitel_Open,-84
+Sci-Fi,-86
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-80
+Art Faculty Staff 3,-90
+Mobitel_Open,-84
+Sci-Fi,-86
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-80
+Art Faculty Staff 3,-90
+Mobitel_Open,-84
+Sci-Fi,-86
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-80
+Art Faculty Staff 3,-90
+Mobitel_Open,-84
+Sci-Fi,-86
+ ------------ 
+ESPap,-56
+3Com,-80
+Mobitel_EAP,-83
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-80
+Mobitel_Open,-84
+Sci-Fi,-86
+Mobitel_Open,-84
+ ------------ 
+ESPap,-56
+3Com,-80
+Mobitel_EAP,-83
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-80
+Mobitel_Open,-84
+Sci-Fi,-86
+Mobitel_Open,-84
+ ------------ 
+ESPap,-56
+3Com,-80
+Mobitel_EAP,-83
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-80
+Mobitel_Open,-84
+Sci-Fi,-86
+Mobitel_Open,-84
+ ------------ 
+ESPap,-56
+3Com,-80
+Mobitel_EAP,-83
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-80
+Mobitel_Open,-84
+Sci-Fi,-86
+Mobitel_Open,-84
+ ------------ 
+ESPap,-56
+3Com,-80
+Mobitel_EAP,-83
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-79
+Mobitel_Open,-84
+Sci-Fi,-86
+Mobitel_Open,-84
+ ------------ 
+ESPap,-56
+3Com,-80
+Mobitel_EAP,-83
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-79
+Mobitel_Open,-84
+Sci-Fi,-86
+Mobitel_Open,-84
+ ------------ 
+ESPap,-56
+3Com,-80
+Mobitel_EAP,-83
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-79
+Mobitel_Open,-84
+Sci-Fi,-86
+Mobitel_Open,-84
+ ------------ 
+ESPap,-56
+3Com,-80
+Mobitel_EAP,-83
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-79
+Mobitel_Open,-84
+Sci-Fi,-86
+Mobitel_Open,-84
+ ------------ 
+ESPap,-56
+3Com,-80
+Mobitel_EAP,-83
+Mobitel_EAP,-80
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-79
+Mobitel_Open,-84
+Sci-Fi,-86
+Mobitel_Open,-84
+ ------------ 
+ESPap,-56
+3Com,-80
+Mobitel_EAP,-83
+Mobitel_EAP,-80
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-79
+Mobitel_Open,-84
+Sci-Fi,-86
+Mobitel_Open,-84
+ ------------ 
+ESPap,-56
+3Com,-80
+Mobitel_EAP,-83
+Mobitel_EAP,-80
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-79
+Mobitel_Open,-84
+Sci-Fi,-86
+Mobitel_Open,-84
+ ------------ 
+ESPap,-56
+3Com,-80
+Mobitel_EAP,-83
+Mobitel_EAP,-80
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-79
+Mobitel_Open,-84
+Sci-Fi,-86
+Mobitel_Open,-84
+ ------------ 
+ESPap,-56
+3Com,-79
+Mobitel_EAP,-83
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-78
+Mobitel_Open,-86
+Mobitel_Open,-84
+eduroam,-90
+ ------------ 
+ESPap,-56
+3Com,-79
+Mobitel_EAP,-83
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-78
+Mobitel_Open,-86
+Mobitel_Open,-84
+eduroam,-90
+ ------------ 
+ESPap,-56
+3Com,-79
+Mobitel_EAP,-83
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-78
+Mobitel_Open,-86
+Mobitel_Open,-84
+eduroam,-90
+ ------------ 
+ESPap,-56
+3Com,-79
+Mobitel_EAP,-83
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-78
+Mobitel_Open,-86
+Mobitel_Open,-84
+eduroam,-90
+ ------------ 
+ESPap,-55
+3Com,-78
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-78
+Mobitel_Open,-86
+Mobitel_Open,-84
+eduroam,-90
+ ------------ 
+ESPap,-55
+3Com,-78
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-78
+Mobitel_Open,-86
+Mobitel_Open,-84
+eduroam,-90
+ ------------ 
+ESPap,-55
+3Com,-78
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-78
+Mobitel_Open,-86
+Mobitel_Open,-84
+eduroam,-90
+ ------------ 
+ESPap,-55
+3Com,-78
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-78
+Mobitel_Open,-86
+Mobitel_Open,-84
+eduroam,-90
+ ------------ 
+ESPap,-55
+3Com,-78
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-82
+Mobitel_Open,-86
+Mobitel_Open,-84
+eduroam,-90
+Sci-Fi,-90
+Student-WIFI,-85
+ ------------ 
+ESPap,-55
+3Com,-78
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-82
+Mobitel_Open,-86
+Mobitel_Open,-84
+eduroam,-90
+Sci-Fi,-90
+Student-WIFI,-85
+ ------------ 
+ESPap,-55
+3Com,-78
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-82
+Mobitel_Open,-86
+Mobitel_Open,-84
+eduroam,-90
+Sci-Fi,-90
+Student-WIFI,-85
+ ------------ 
+ESPap,-55
+3Com,-78
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-83
+Freewifi_Mobitel,-82
+Mobitel_Open,-86
+Mobitel_Open,-84
+eduroam,-90
+Sci-Fi,-90
+Student-WIFI,-85
+ ------------ 
+ESPap,-55
+3Com,-78
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-82
+Mobitel_Open,-83
+eduroam,-90
+Sci-Fi,-90
+Student-WIFI,-85
+Mobitel_EAP,-91
+Freewifi_Mobitel,-88
+ ------------ 
+ESPap,-55
+3Com,-78
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-82
+Mobitel_Open,-83
+eduroam,-90
+Sci-Fi,-90
+Student-WIFI,-85
+Mobitel_EAP,-91
+Freewifi_Mobitel,-88
+ ------------ 
+ESPap,-55
+3Com,-78
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-82
+Mobitel_Open,-83
+eduroam,-90
+Sci-Fi,-90
+Student-WIFI,-85
+Mobitel_EAP,-91
+Freewifi_Mobitel,-88
+ ------------ 
+ESPap,-55
+3Com,-78
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-82
+Mobitel_Open,-83
+eduroam,-90
+Sci-Fi,-90
+Student-WIFI,-85
+Mobitel_EAP,-91
+Freewifi_Mobitel,-88
+ ------------ 
+ESPap,-55
+3Com,-78
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-82
+Mobitel_Open,-83
+eduroam,-90
+Sci-Fi,-90
+Student-WIFI,-86
+Mobitel_EAP,-91
+Freewifi_Mobitel,-88
+STAFF,-91
+ ------------ 
+ESPap,-55
+3Com,-78
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-82
+Mobitel_Open,-83
+eduroam,-90
+Sci-Fi,-90
+Student-WIFI,-86
+Mobitel_EAP,-91
+Freewifi_Mobitel,-88
+STAFF,-91
+ ------------ 
+ESPap,-55
+3Com,-78
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-82
+Mobitel_Open,-83
+eduroam,-90
+Sci-Fi,-90
+Student-WIFI,-86
+Mobitel_EAP,-91
+Freewifi_Mobitel,-88
+STAFF,-91
+ ------------ 
+ESPap,-55
+3Com,-78
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-82
+Mobitel_Open,-83
+eduroam,-90
+Sci-Fi,-90
+Student-WIFI,-86
+Mobitel_EAP,-91
+Freewifi_Mobitel,-88
+STAFF,-91
+ ------------ 
+ESPap,-55
+3Com,-78
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-82
+Mobitel_Open,-83
+eduroam,-90
+Sci-Fi,-90
+Student-WIFI,-86
+Mobitel_EAP,-91
+Freewifi_Mobitel,-88
+STAFF,-91
+ ------------ 
+ESPap,-55
+3Com,-78
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-82
+Mobitel_Open,-83
+eduroam,-90
+Sci-Fi,-90
+Student-WIFI,-86
+Mobitel_EAP,-91
+Freewifi_Mobitel,-88
+STAFF,-91
+ ------------ 
+ESPap,-55
+3Com,-78
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-82
+Mobitel_Open,-83
+eduroam,-90
+Sci-Fi,-90
+Student-WIFI,-86
+Mobitel_EAP,-91
+Freewifi_Mobitel,-88
+STAFF,-91
+ ------------ 
+ESPap,-55
+3Com,-78
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-82
+Mobitel_Open,-83
+eduroam,-90
+Sci-Fi,-90
+Student-WIFI,-86
+Mobitel_EAP,-91
+Freewifi_Mobitel,-88
+STAFF,-91
+ ------------ 
+ESPap,-55
+3Com,-79
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-82
+Mobitel_Open,-83
+eduroam,-90
+Sci-Fi,-90
+Student-WIFI,-86
+Mobitel_EAP,-91
+Freewifi_Mobitel,-88
+STAFF,-91
+Dialog Wi-Fi,-80
+ ------------ 
+ESPap,-55
+3Com,-79
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-82
+Mobitel_Open,-83
+eduroam,-90
+Sci-Fi,-90
+Student-WIFI,-86
+Mobitel_EAP,-91
+Freewifi_Mobitel,-88
+STAFF,-91
+Dialog Wi-Fi,-80
+ ------------ 
+ESPap,-55
+3Com,-79
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-82
+Mobitel_Open,-83
+eduroam,-90
+Sci-Fi,-90
+Student-WIFI,-86
+Mobitel_EAP,-91
+Freewifi_Mobitel,-88
+STAFF,-91
+Dialog Wi-Fi,-80
+ ------------ 
+ESPap,-55
+3Com,-79
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-82
+Mobitel_Open,-83
+eduroam,-90
+Sci-Fi,-90
+Student-WIFI,-86
+Mobitel_EAP,-91
+Freewifi_Mobitel,-88
+STAFF,-91
+Dialog Wi-Fi,-80
+ ------------ 
+ESPap,-55
+3Com,-79
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-82
+Mobitel_Open,-83
+eduroam,-90
+Sci-Fi,-90
+Student-WIFI,-82
+Mobitel_EAP,-91
+Freewifi_Mobitel,-88
+STAFF,-91
+Dialog Wi-Fi,-80
+Mobitel_Open,-88
+ ------------ 
+ESPap,-55
+3Com,-79
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-82
+Mobitel_Open,-83
+eduroam,-90
+Sci-Fi,-90
+Student-WIFI,-82
+Mobitel_EAP,-91
+Freewifi_Mobitel,-88
+STAFF,-91
+Dialog Wi-Fi,-80
+Mobitel_Open,-88
+ ------------ 
+ESPap,-55
+3Com,-79
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-82
+Mobitel_Open,-83
+eduroam,-90
+Sci-Fi,-90
+Student-WIFI,-82
+Mobitel_EAP,-91
+Freewifi_Mobitel,-88
+STAFF,-91
+Dialog Wi-Fi,-80
+Mobitel_Open,-88
+ ------------ 
+ESPap,-55
+3Com,-79
+Mobitel_EAP,-82
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-82
+Mobitel_Open,-83
+eduroam,-90
+Sci-Fi,-90
+Student-WIFI,-82
+Mobitel_EAP,-91
+Freewifi_Mobitel,-88
+STAFF,-91
+Dialog Wi-Fi,-80
+Mobitel_Open,-88
+ ------------ 
+ESPap,-55
+3Com,-79
+Mobitel_EAP,-86
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-84
+Mobitel_Open,-83
+Sci-Fi,-90
+Student-WIFI,-82
+Mobitel_EAP,-91
+Freewifi_Mobitel,-88
+STAFF,-91
+Dialog Wi-Fi,-80
+Mobitel_Open,-88
+ ------------ 
+ESPap,-55
+3Com,-79
+Mobitel_EAP,-86
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-84
+Mobitel_Open,-83
+Sci-Fi,-90
+Student-WIFI,-82
+Mobitel_EAP,-91
+Freewifi_Mobitel,-88
+STAFF,-91
+Dialog Wi-Fi,-80
+Mobitel_Open,-88
+ ------------ 
+ESPap,-55
+3Com,-79
+Mobitel_EAP,-86
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-84
+Mobitel_Open,-83
+Sci-Fi,-90
+Student-WIFI,-82
+Mobitel_EAP,-91
+Freewifi_Mobitel,-88
+STAFF,-91
+Dialog Wi-Fi,-80
+Mobitel_Open,-88
+ ------------ 
+ESPap,-55
+3Com,-79
+Mobitel_EAP,-86
+Mobitel_EAP,-83
+Freewifi_Mobitel,-84
+Freewifi_Mobitel,-84
+Mobitel_Open,-83
+Sci-Fi,-90
+Student-WIFI,-82
+Mobitel_EAP,-91
+Freewifi_Mobitel,-88
+STAFF,-91
+Dialog Wi-Fi,-80
+Mobitel_Open,-88
+ ------------ 
+ESPap,-55
+3Com,-79
+Mobitel_EAP,-86
+Mobitel_EAP,-84
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-84
+Sci-Fi,-90
+Student-WIFI,-86
+Mobitel_EAP,-91
+Freewifi_Mobitel,-88
+STAFF,-91
+Dialog Wi-Fi,-80
+Mobitel_Open,-88
+CSHR ,-86
+ ------------ 
+ESPap,-55
+3Com,-79
+Mobitel_EAP,-86
+Mobitel_EAP,-84
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-84
+Sci-Fi,-90
+Student-WIFI,-86
+Mobitel_EAP,-91
+Freewifi_Mobitel,-88
+STAFF,-91
+Dialog Wi-Fi,-80
+Mobitel_Open,-88
+CSHR ,-86
+ ------------ 
+ESPap,-55
+3Com,-79
+Mobitel_EAP,-86
+Mobitel_EAP,-84
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-84
+Sci-Fi,-90
+Student-WIFI,-86
+Mobitel_EAP,-91
+Freewifi_Mobitel,-88
+STAFF,-91
+Dialog Wi-Fi,-80
+Mobitel_Open,-88
+CSHR ,-86
+ ------------ 
+ESPap,-55
+3Com,-79
+Mobitel_EAP,-86
+Mobitel_EAP,-84
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-84
+Sci-Fi,-90
+Student-WIFI,-86
+Mobitel_EAP,-91
+Freewifi_Mobitel,-88
+STAFF,-91
+Dialog Wi-Fi,-80
+Mobitel_Open,-88
+CSHR ,-86
+ ------------ 
+ESPap,-55
+3Com,-83
+Mobitel_EAP,-83
+Mobitel_EAP,-84
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-80
+Sci-Fi,-90
+Student-WIFI,-86
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-80
+Mobitel_Open,-88
+CSHR ,-85
+ ------------ 
+ESPap,-55
+3Com,-83
+Mobitel_EAP,-83
+Mobitel_EAP,-84
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-80
+Sci-Fi,-90
+Student-WIFI,-86
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-80
+Mobitel_Open,-88
+CSHR ,-85
+ ------------ 
+ESPap,-55
+3Com,-83
+Mobitel_EAP,-83
+Mobitel_EAP,-84
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-80
+Sci-Fi,-90
+Student-WIFI,-86
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-80
+Mobitel_Open,-88
+CSHR ,-85
+ ------------ 
+ESPap,-55
+3Com,-83
+Mobitel_EAP,-83
+Mobitel_EAP,-84
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-80
+Sci-Fi,-90
+Student-WIFI,-86
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-80
+Mobitel_Open,-88
+CSHR ,-85
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-84
+Mobitel_EAP,-84
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-80
+Sci-Fi,-90
+Student-WIFI,-86
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-80
+Mobitel_Open,-88
+CSHR ,-85
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-84
+Mobitel_EAP,-84
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-80
+Sci-Fi,-90
+Student-WIFI,-86
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-80
+Mobitel_Open,-88
+CSHR ,-85
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-84
+Mobitel_EAP,-84
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-80
+Sci-Fi,-90
+Student-WIFI,-86
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-80
+Mobitel_Open,-88
+CSHR ,-85
+ ------------ 
+ESPap,-55
+3Com,-81
+Mobitel_EAP,-84
+Mobitel_EAP,-84
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-80
+Sci-Fi,-90
+Student-WIFI,-86
+Freewifi_Mobitel,-88
+Dialog Wi-Fi,-80
+Mobitel_Open,-88
+CSHR ,-85
+ ------------ 
+ESPap,-54
+3Com,-78
+Mobitel_EAP,-84
+Mobitel_EAP,-84
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-84
+Student-WIFI,-86
+Dialog Wi-Fi,-83
+CSHR ,-85
+ ------------ 
+ESPap,-54
+3Com,-78
+Mobitel_EAP,-84
+Mobitel_EAP,-84
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-84
+Student-WIFI,-86
+Dialog Wi-Fi,-83
+CSHR ,-85
+ ------------ 
+ESPap,-54
+3Com,-78
+Mobitel_EAP,-84
+Mobitel_EAP,-84
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-84
+Student-WIFI,-86
+Dialog Wi-Fi,-83
+CSHR ,-85
+ ------------ 
+ESPap,-54
+3Com,-78
+Mobitel_EAP,-84
+Mobitel_EAP,-84
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-84
+Student-WIFI,-86
+Dialog Wi-Fi,-83
+CSHR ,-85
+ ------------ 
+ESPap,-54
+3Com,-78
+Mobitel_EAP,-84
+Mobitel_EAP,-86
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-84
+Student-WIFI,-87
+Dialog Wi-Fi,-83
+CSHR ,-85
+Mobitel_EAP,-85
+Sci-Fi,-89
+Mobitel_Open,-85
+Mobitel_Open,-88
+Freewifi_Mobitel,-89
+ ------------ 
+ESPap,-54
+3Com,-78
+Mobitel_EAP,-84
+Mobitel_EAP,-86
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-84
+Student-WIFI,-87
+Dialog Wi-Fi,-83
+CSHR ,-85
+Mobitel_EAP,-85
+Sci-Fi,-89
+Mobitel_Open,-85
+Mobitel_Open,-88
+Freewifi_Mobitel,-89
+ ------------ 
+ESPap,-54
+3Com,-78
+Mobitel_EAP,-84
+Mobitel_EAP,-86
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-84
+Student-WIFI,-87
+Dialog Wi-Fi,-83
+CSHR ,-85
+Mobitel_EAP,-85
+Sci-Fi,-89
+Mobitel_Open,-85
+Mobitel_Open,-88
+Freewifi_Mobitel,-89
+ ------------ 
+ESPap,-54
+3Com,-78
+Mobitel_EAP,-84
+Mobitel_EAP,-86
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-84
+Student-WIFI,-87
+Dialog Wi-Fi,-83
+CSHR ,-85
+Mobitel_EAP,-85
+Sci-Fi,-89
+Mobitel_Open,-85
+Mobitel_Open,-88
+Freewifi_Mobitel,-89
+ ------------ 
+ESPap,-54
+3Com,-78
+Mobitel_EAP,-83
+Mobitel_EAP,-86
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-83
+Student-WIFI,-87
+Dialog Wi-Fi,-83
+CSHR ,-85
+Mobitel_EAP,-87
+Sci-Fi,-89
+Mobitel_Open,-85
+Mobitel_Open,-89
+Freewifi_Mobitel,-88
+Mobitel_Open,-83
+ ------------ 
+ESPap,-54
+3Com,-78
+Mobitel_EAP,-83
+Mobitel_EAP,-86
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-83
+Student-WIFI,-87
+Dialog Wi-Fi,-83
+CSHR ,-85
+Mobitel_EAP,-87
+Sci-Fi,-89
+Mobitel_Open,-85
+Mobitel_Open,-89
+Freewifi_Mobitel,-88
+Mobitel_Open,-83
+ ------------ 
+ESPap,-54
+3Com,-78
+Mobitel_EAP,-83
+Mobitel_EAP,-86
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-83
+Student-WIFI,-87
+Dialog Wi-Fi,-83
+CSHR ,-85
+Mobitel_EAP,-87
+Sci-Fi,-89
+Mobitel_Open,-85
+Mobitel_Open,-89
+Freewifi_Mobitel,-88
+Mobitel_Open,-83
+ ------------ 
+ESPap,-54
+3Com,-78
+Mobitel_EAP,-83
+Mobitel_EAP,-86
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-83
+Student-WIFI,-87
+Dialog Wi-Fi,-83
+CSHR ,-85
+Mobitel_EAP,-87
+Sci-Fi,-89
+Mobitel_Open,-85
+Mobitel_Open,-89
+Freewifi_Mobitel,-88
+Mobitel_Open,-83
+ ------------ 
+ESPap,-54
+3Com,-78
+Mobitel_EAP,-83
+Mobitel_EAP,-86
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-82
+Student-WIFI,-87
+Dialog Wi-Fi,-83
+CSHR ,-85
+Mobitel_EAP,-87
+Sci-Fi,-89
+Mobitel_Open,-85
+Mobitel_Open,-88
+Freewifi_Mobitel,-87
+Mobitel_Open,-83
+Dialog 4G,-88
+ ------------ 
+ESPap,-54
+3Com,-78
+Mobitel_EAP,-83
+Mobitel_EAP,-86
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-82
+Student-WIFI,-87
+Dialog Wi-Fi,-83
+CSHR ,-85
+Mobitel_EAP,-87
+Sci-Fi,-89
+Mobitel_Open,-85
+Mobitel_Open,-88
+Freewifi_Mobitel,-87
+Mobitel_Open,-83
+Dialog 4G,-88
+ ------------ 
+ESPap,-54
+3Com,-78
+Mobitel_EAP,-83
+Mobitel_EAP,-86
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-82
+Student-WIFI,-87
+Dialog Wi-Fi,-83
+CSHR ,-85
+Mobitel_EAP,-87
+Sci-Fi,-89
+Mobitel_Open,-85
+Mobitel_Open,-88
+Freewifi_Mobitel,-87
+Mobitel_Open,-83
+Dialog 4G,-88
+ ------------ 
+ESPap,-54
+3Com,-78
+Mobitel_EAP,-83
+Mobitel_EAP,-86
+Freewifi_Mobitel,-86
+Freewifi_Mobitel,-82
+Student-WIFI,-87
+Dialog Wi-Fi,-83
+CSHR ,-85
+Mobitel_EAP,-87
+Sci-Fi,-89
+Mobitel_Open,-85
+Mobitel_Open,-88
+Freewifi_Mobitel,-87
+Mobitel_Open,-83
+Dialog 4G,-88
+ ------------ 
+ESPap,-56
+3Com,-83
+Mobitel_EAP,-83
+Mobitel_EAP,-82
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-81
+Student-WIFI,-87
+Dialog Wi-Fi,-83
+Mobitel_EAP,-87
+Sci-Fi,-89
+Mobitel_Open,-85
+Mobitel_Open,-88
+Freewifi_Mobitel,-87
+Mobitel_Open,-83
+Dialog 4G,-88
+Art Faculty Staff 3,-89
+ ------------ 
+ESPap,-56
+3Com,-83
+Mobitel_EAP,-83
+Mobitel_EAP,-82
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-81
+Student-WIFI,-87
+Dialog Wi-Fi,-83
+Mobitel_EAP,-87
+Sci-Fi,-89
+Mobitel_Open,-85
+Mobitel_Open,-88
+Freewifi_Mobitel,-87
+Mobitel_Open,-83
+Dialog 4G,-88
+Art Faculty Staff 3,-89
+ ------------ 
+ESPap,-56
+3Com,-83
+Mobitel_EAP,-83
+Mobitel_EAP,-82
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-81
+Student-WIFI,-87
+Dialog Wi-Fi,-83
+Mobitel_EAP,-87
+Sci-Fi,-89
+Mobitel_Open,-85
+Mobitel_Open,-88
+Freewifi_Mobitel,-87
+Mobitel_Open,-83
+Dialog 4G,-88
+Art Faculty Staff 3,-89
+ ------------ 
+ESPap,-56
+3Com,-83
+Mobitel_EAP,-83
+Mobitel_EAP,-82
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-81
+Student-WIFI,-87
+Dialog Wi-Fi,-83
+Mobitel_EAP,-87
+Sci-Fi,-89
+Mobitel_Open,-85
+Mobitel_Open,-88
+Freewifi_Mobitel,-87
+Mobitel_Open,-83
+Dialog 4G,-88
+Art Faculty Staff 3,-89
+ ------------ 
+ESPap,-56
+3Com,-83
+Mobitel_EAP,-83
+Mobitel_EAP,-82
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-81
+Student-WIFI,-87
+Mobitel_EAP,-87
+Sci-Fi,-89
+Mobitel_Open,-85
+Mobitel_Open,-88
+Freewifi_Mobitel,-87
+Mobitel_Open,-83
+Dialog 4G,-88
+Art Faculty Staff 3,-89
+ ------------ 
+ESPap,-56
+3Com,-83
+Mobitel_EAP,-83
+Mobitel_EAP,-82
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-81
+Student-WIFI,-87
+Mobitel_EAP,-87
+Sci-Fi,-89
+Mobitel_Open,-85
+Mobitel_Open,-88
+Freewifi_Mobitel,-87
+Mobitel_Open,-83
+Dialog 4G,-88
+Art Faculty Staff 3,-89
+ ------------ 
+ESPap,-56
+3Com,-83
+Mobitel_EAP,-83
+Mobitel_EAP,-82
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-81
+Student-WIFI,-87
+Mobitel_EAP,-87
+Sci-Fi,-89
+Mobitel_Open,-85
+Mobitel_Open,-88
+Freewifi_Mobitel,-87
+Mobitel_Open,-83
+Dialog 4G,-88
+Art Faculty Staff 3,-89
+ ------------ 
+ESPap,-56
+3Com,-83
+Mobitel_EAP,-83
+Mobitel_EAP,-82
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-81
+Student-WIFI,-87
+Mobitel_EAP,-87
+Sci-Fi,-89
+Mobitel_Open,-85
+Mobitel_Open,-88
+Freewifi_Mobitel,-87
+Mobitel_Open,-83
+Dialog 4G,-88
+Art Faculty Staff 3,-89
+ ------------ 
+ESPap,-56
+3Com,-83
+Mobitel_EAP,-83
+Mobitel_EAP,-82
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-81
+Student-WIFI,-87
+Mobitel_EAP,-87
+Mobitel_Open,-85
+Mobitel_Open,-88
+Freewifi_Mobitel,-87
+Mobitel_Open,-83
+Dialog 4G,-88
+Art Faculty Staff 3,-89
+ ------------ 
+ESPap,-56
+3Com,-83
+Mobitel_EAP,-83
+Mobitel_EAP,-82
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-81
+Student-WIFI,-87
+Mobitel_EAP,-87
+Mobitel_Open,-85
+Mobitel_Open,-88
+Freewifi_Mobitel,-87
+Mobitel_Open,-83
+Dialog 4G,-88
+Art Faculty Staff 3,-89
+ ------------ 
+ESPap,-56
+3Com,-83
+Mobitel_EAP,-83
+Mobitel_EAP,-82
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-81
+Student-WIFI,-87
+Mobitel_EAP,-87
+Mobitel_Open,-85
+Mobitel_Open,-88
+Freewifi_Mobitel,-87
+Mobitel_Open,-83
+Dialog 4G,-88
+Art Faculty Staff 3,-89
+ ------------ 
+ESPap,-56
+3Com,-83
+Mobitel_EAP,-83
+Mobitel_EAP,-82
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-81
+Student-WIFI,-87
+Mobitel_EAP,-87
+Mobitel_Open,-85
+Mobitel_Open,-88
+Freewifi_Mobitel,-87
+Mobitel_Open,-83
+Dialog 4G,-88
+Art Faculty Staff 3,-89
+ ------------ 
+ESPap,-57
+3Com,-83
+Mobitel_EAP,-81
+Mobitel_EAP,-82
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-81
+Student-WIFI,-87
+Mobitel_EAP,-87
+Mobitel_Open,-85
+Mobitel_Open,-88
+Freewifi_Mobitel,-87
+Mobitel_Open,-84
+Dialog 4G,-88
+Art Faculty Staff 3,-89
+ ------------ 
+ESPap,-57
+3Com,-83
+Mobitel_EAP,-81
+Mobitel_EAP,-82
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-81
+Student-WIFI,-87
+Mobitel_EAP,-87
+Mobitel_Open,-85
+Mobitel_Open,-88
+Freewifi_Mobitel,-87
+Mobitel_Open,-84
+Dialog 4G,-88
+Art Faculty Staff 3,-89
+ ------------ 
+ESPap,-57
+3Com,-83
+Mobitel_EAP,-81
+Mobitel_EAP,-82
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-81
+Student-WIFI,-87
+Mobitel_EAP,-87
+Mobitel_Open,-85
+Mobitel_Open,-88
+Freewifi_Mobitel,-87
+Mobitel_Open,-84
+Dialog 4G,-88
+Art Faculty Staff 3,-89
+ ------------ 
+ESPap,-57
+3Com,-83
+Mobitel_EAP,-81
+Mobitel_EAP,-82
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-81
+Student-WIFI,-87
+Mobitel_EAP,-87
+Mobitel_Open,-85
+Mobitel_Open,-88
+Freewifi_Mobitel,-87
+Mobitel_Open,-84
+Dialog 4G,-88
+Art Faculty Staff 3,-89
+ ------------ 
+ESPap,-57
+3Com,-83
+Mobitel_EAP,-83
+Mobitel_EAP,-82
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-84
+Student-WIFI,-87
+Mobitel_Open,-85
+Freewifi_Mobitel,-87
+Mobitel_Open,-82
+Dialog 4G,-88
+Art Faculty Staff 3,-89
+Sci-Fi,-80
+IBMBB Wireless,-84
+ ------------ 
+ESPap,-57
+3Com,-83
+Mobitel_EAP,-83
+Mobitel_EAP,-82
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-84
+Student-WIFI,-87
+Mobitel_Open,-85
+Freewifi_Mobitel,-87
+Mobitel_Open,-82
+Dialog 4G,-88
+Art Faculty Staff 3,-89
+Sci-Fi,-80
+IBMBB Wireless,-84
+ ------------ 
+ESPap,-57
+3Com,-83
+Mobitel_EAP,-83
+Mobitel_EAP,-82
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-84
+Student-WIFI,-87
+Mobitel_Open,-85
+Freewifi_Mobitel,-87
+Mobitel_Open,-82
+Dialog 4G,-88
+Art Faculty Staff 3,-89
+Sci-Fi,-80
+IBMBB Wireless,-84
+ ------------ 
+ESPap,-57
+3Com,-83
+Mobitel_EAP,-83
+Mobitel_EAP,-82
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-84
+Student-WIFI,-87
+Mobitel_Open,-85
+Freewifi_Mobitel,-87
+Mobitel_Open,-82
+Dialog 4G,-88
+Art Faculty Staff 3,-89
+Sci-Fi,-80
+IBMBB Wireless,-84
+ ------------ 
+ESPap,-57
+3Com,-84
+Mobitel_EAP,-82
+Mobitel_EAP,-82
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-82
+Student-WIFI,-87
+Mobitel_Open,-85
+Freewifi_Mobitel,-87
+Mobitel_Open,-82
+Dialog 4G,-88
+Art Faculty Staff 3,-89
+Sci-Fi,-80
+IBMBB Wireless,-84
+CSHR ,-89
+ ------------ 
+ESPap,-57
+3Com,-84
+Mobitel_EAP,-82
+Mobitel_EAP,-82
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-82
+Student-WIFI,-87
+Mobitel_Open,-85
+Freewifi_Mobitel,-87
+Mobitel_Open,-82
+Dialog 4G,-88
+Art Faculty Staff 3,-89
+Sci-Fi,-80
+IBMBB Wireless,-84
+CSHR ,-89
+ ------------ 
+ESPap,-57
+3Com,-84
+Mobitel_EAP,-82
+Mobitel_EAP,-82
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-82
+Student-WIFI,-87
+Mobitel_Open,-85
+Freewifi_Mobitel,-87
+Mobitel_Open,-82
+Dialog 4G,-88
+Art Faculty Staff 3,-89
+Sci-Fi,-80
+IBMBB Wireless,-84
+CSHR ,-89
+ ------------ 
+ESPap,-57
+3Com,-84
+Mobitel_EAP,-82
+Mobitel_EAP,-82
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-82
+Student-WIFI,-87
+Mobitel_Open,-85
+Freewifi_Mobitel,-87
+Mobitel_Open,-82
+Dialog 4G,-88
+Art Faculty Staff 3,-89
+Sci-Fi,-80
+IBMBB Wireless,-84
+CSHR ,-89
+ ------------ 
+ESPap,-57
+3Com,-84
+Mobitel_EAP,-81
+Mobitel_EAP,-82
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-82
+Student-WIFI,-87
+Mobitel_Open,-85
+Freewifi_Mobitel,-88
+Mobitel_Open,-82
+Art Faculty Staff 3,-89
+Sci-Fi,-80
+IBMBB Wireless,-84
+CSHR ,-89
+Mobitel_EAP,-88
+ ------------ 
+ESPap,-57
+3Com,-84
+Mobitel_EAP,-81
+Mobitel_EAP,-82
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-82
+Student-WIFI,-87
+Mobitel_Open,-85
+Freewifi_Mobitel,-88
+Mobitel_Open,-82
+Art Faculty Staff 3,-89
+Sci-Fi,-80
+IBMBB Wireless,-84
+CSHR ,-89
+Mobitel_EAP,-88
+ ------------ 
+ESPap,-57
+3Com,-84
+Mobitel_EAP,-81
+Mobitel_EAP,-82
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-82
+Student-WIFI,-87
+Mobitel_Open,-85
+Freewifi_Mobitel,-88
+Mobitel_Open,-82
+Art Faculty Staff 3,-89
+Sci-Fi,-80
+IBMBB Wireless,-84
+CSHR ,-89
+Mobitel_EAP,-88
+ ------------ 
+ESPap,-57
+3Com,-84
+Mobitel_EAP,-81
+Mobitel_EAP,-82
+Freewifi_Mobitel,-82
+Freewifi_Mobitel,-82
+Student-WIFI,-87
+Mobitel_Open,-85
+Freewifi_Mobitel,-88
+Mobitel_Open,-82
+Art Faculty Staff 3,-89
+Sci-Fi,-80
+IBMBB Wireless,-84
+CSHR ,-89
+Mobitel_EAP,-88
+ ------------ 
+ESPap,-57
+3Com,-84
+Mobitel_EAP,-80
+Mobitel_EAP,-84
+Freewifi_Mobitel,-85
+Freewifi_Mobitel,-82
+Student-WIFI,-86
+Mobitel_Open,-85
+Freewifi_Mobitel,-88
+Mobitel_Open,-82
+Sci-Fi,-85
+IBMBB Wireless,-84
+CSHR ,-89
+Mobitel_EAP,-88
+Dialog 4G,-87
+ ------------ 
+ESPap,-57
+3Com,-84
+Mobitel_EAP,-80
+Mobitel_EAP,-84
+Freewifi_Mobitel,-85
+Freewifi_Mobitel,-82
+Student-WIFI,-86
+Mobitel_Open,-85
+Freewifi_Mobitel,-88
+Mobitel_Open,-82
+Sci-Fi,-85
+IBMBB Wireless,-84
+CSHR ,-89
+Mobitel_EAP,-88
+Dialog 4G,-87
+ ------------ 
+ESPap,-57
+3Com,-84
+Mobitel_EAP,-80
+Mobitel_EAP,-84
+Freewifi_Mobitel,-85
+Freewifi_Mobitel,-82
+Student-WIFI,-86
+Mobitel_Open,-85
+Freewifi_Mobitel,-88
+Mobitel_Open,-82
+Sci-Fi,-85
+IBMBB Wireless,-84
+CSHR ,-89
+Mobitel_EAP,-88
+Dialog 4G,-87
+ ------------ 
+ESPap,-57
+3Com,-84
+Mobitel_EAP,-80
+Mobitel_EAP,-84
+Freewifi_Mobitel,-85
+Freewifi_Mobitel,-82
+Student-WIFI,-86
+Mobitel_Open,-85
+Freewifi_Mobitel,-88
+Mobitel_Open,-82
+Sci-Fi,-85
+IBMBB Wireless,-84
+CSHR ,-89
+Mobitel_EAP,-88
+Dialog 4G,-87
+ ------------ 
+ESPap,-56
+3Com,-84
+Mobitel_EAP,-84
+Mobitel_EAP,-84
+Freewifi_Mobitel,-85
+Freewifi_Mobitel,-84
+Student-WIFI,-86
+Freewifi_Mobitel,-88
+Mobitel_Open,-82
+Sci-Fi,-88
+IBMBB Wireless,-84
+CSHR ,-89
+Mobitel_EAP,-88
+Dialog 4G,-87
+ ------------ 
+ESPap,-56
+3Com,-84
+Mobitel_EAP,-84
+Mobitel_EAP,-84
+Freewifi_Mobitel,-85
+Freewifi_Mobitel,-84
+Student-WIFI,-86
+Freewifi_Mobitel,-88
+Mobitel_Open,-82
+Sci-Fi,-88
+IBMBB Wireless,-84
+CSHR ,-89
+Mobitel_EAP,-88
+Dialog 4G,-87
+ ------------ 
+ESPap,-56
+3Com,-84
+Mobitel_EAP,-84
+Mobitel_EAP,-84
+Freewifi_Mobitel,-85
+Freewifi_Mobitel,-84
+Student-WIFI,-86
+Freewifi_Mobitel,-88
+Mobitel_Open,-82
+Sci-Fi,-88
+IBMBB Wireless,-84
+CSHR ,-89
+Mobitel_EAP,-88
+Dialog 4G,-87
+ ------------ 
+ESPap,-56
+3Com,-84
+Mobitel_EAP,-84
+Mobitel_EAP,-84
+Freewifi_Mobitel,-85
+Freewifi_Mobitel,-84
+Student-WIFI,-86
+Freewifi_Mobitel,-88
+Mobitel_Open,-82
+Sci-Fi,-88
+IBMBB Wireless,-84
+CSHR ,-89
+Mobitel_EAP,-88
+Dialog 4G,-87
+ ------------ 
+ESPap,-56
+3Com,-84
+Mobitel_EAP,-84
+Mobitel_EAP,-84
+Freewifi_Mobitel,-85
+Freewifi_Mobitel,-85
+Student-WIFI,-86
+Freewifi_Mobitel,-88
+Mobitel_Open,-84
+Sci-Fi,-88
+CSHR ,-89
+Mobitel_EAP,-88
+Dialog 4G,-87
+ ------------ 
+ESPap,-56
+3Com,-84
+Mobitel_EAP,-84
+Mobitel_EAP,-84
+Freewifi_Mobitel,-85
+Freewifi_Mobitel,-85
+Student-WIFI,-86
+Freewifi_Mobitel,-88
+Mobitel_Open,-84
+Sci-Fi,-88
+CSHR ,-89
+Mobitel_EAP,-88
+Dialog 4G,-87
+ ------------ 
+ESPap,-56
+3Com,-84
+Mobitel_EAP,-84
+Mobitel_EAP,-84
+Freewifi_Mobitel,-85
+Freewifi_Mobitel,-85
+Student-WIFI,-86
+Freewifi_Mobitel,-88
+Mobitel_Open,-84
+Sci-Fi,-88
+CSHR ,-89
+Mobitel_EAP,-88
+Dialog 4G,-87
+ ------------ 
+ESPap,-56
+3Com,-84
+Mobitel_EAP,-84
+Mobitel_EAP,-84
+Freewifi_Mobitel,-85
+Freewifi_Mobitel,-85
+Student-WIFI,-86
+Freewifi_Mobitel,-88
+Mobitel_Open,-84
+Sci-Fi,-88
+CSHR ,-89
+Mobitel_EAP,-88
+Dialog 4G,-87
+ ------------ 
