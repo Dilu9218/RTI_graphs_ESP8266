@@ -1,3 +1,5 @@
+#this code has errors, calculating SNR is not direct as below. 
+
 import numpy as np
 import matplotlib.pyplot as plt 
 
