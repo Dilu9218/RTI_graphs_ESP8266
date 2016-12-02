@@ -11,12 +11,12 @@ dataF = []
 dataG = []
 dataH = []
 dataI = []
+dataJ = []
 dataK = []
 dataL = []
-dataM = []
 
 #-------------------------------------------------------------------------------
-with open("nodeA_edited", "r") as f:
+with open("A.txt", "r") as f:
 	for line in f:
 		for i in range(0,len(line)):	
 			if line[i]=="B":
@@ -51,17 +51,17 @@ with open("nodeA_edited", "r") as f:
 				dataI.append(-int(line[i+2:i+4]))
 				avg=sum(dataI)/len(dataI)
 
+			if line[i]=="J":
+				dataJ.append(-int(line[i+2:i+4]))
+				avg=sum(dataJ)/len(dataJ)  
+       	
 			if line[i]=="K":
 				dataK.append(-int(line[i+2:i+4]))
 				avg=sum(dataK)/len(dataK)  
-       	
+	
 			if line[i]=="L":
 				dataL.append(-int(line[i+2:i+4]))
-				avg=sum(dataL)/len(dataL)
-	
-			if line[i]=="M":
-				dataM.append(-int(line[i+2:i+4]))
-				avg=sum(dataM)/len(dataM)  
+				avg=sum(dataL)/len(dataL)  
 			else:
 				continue
 
@@ -83,19 +83,47 @@ avgH=sum(dataH)/len(dataH)
 avgNodeA.append(avgH)
 avgI=sum(dataI)/len(dataI)
 avgNodeA.append(avgI)
+avgJ=sum(dataJ)/len(dataJ)
+avgNodeA.append(avgJ)
 avgK=sum(dataK)/len(dataK)
 avgNodeA.append(avgK)
 avgL=sum(dataL)/len(dataL)
 avgNodeA.append(avgL)
-avgM=sum(dataM)/len(dataM)
-avgNodeA.append(avgM)
 
 print avgNodeA
+def mode(data):
+	hits = []
+	for item in data:
+	    tally = data.count(item)
+	    #Makes a tuple that is the number of huts paired with the relevant number
+	    values = (tally, item)
+	    # Only add one entry for each number in the set
+	    if values not in hits:
+		hits.append(values)
+	hits.sort(reverse=True)
+	if hits[0][0]>=hits[1][0]:
+	    print("\n\nThe mode is:", hits[0][1], "hit appeared", hits[0][0], "times.")
+	else:
+	    print("There is not a mode")
+	return hits[0][1]
+listmode=[]
+listmode.append(-45)
+listmode.append(mode(dataB))
+listmode.append(mode(dataC))
+listmode.append(mode(dataD))
+listmode.append(mode(dataE))
+listmode.append(mode(dataF))
+listmode.append(mode(dataG))
+listmode.append(mode(dataH))
+listmode.append(mode(dataI))
+listmode.append(mode(dataJ))
+listmode.append(mode(dataK))
+listmode.append(mode(dataL))
+print listmode
 
-
-with open('empty.csv', 'wb') as csvfile:
+with open('man1_1.csv', 'wb') as csvfile:
    writer = csv.writer(csvfile, delimiter=' ', quotechar='|')
    #for row in avgNodeA:
-   writer.writerow(avgNodeA)
+   writer.writerow(listmode)
 
 
